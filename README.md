@@ -1,4 +1,7 @@
 ## Hi there 👋
+- sou estudante do professor rodolfo
+- sou do segundo ano do ensino medio
+- gosto de gatos e cachorros e animais 
 
 <!--
 **mariane000/mariane000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
